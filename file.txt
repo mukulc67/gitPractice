@@ -1,2 +1,4 @@
 paragraph1
 heading2
+para1
+para2
